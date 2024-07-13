@@ -1,9 +1,14 @@
+# requirements.txt
 jupyter
 tensorflow
 keras
 torch
 numpy
 pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
 psycopg2-binary
 sqlalchemy
 geopandas
