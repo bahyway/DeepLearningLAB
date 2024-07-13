@@ -1,0 +1,4 @@
+# Dockerfile.data
+FROM busybox
+VOLUME /data
+CMD ["sh"]

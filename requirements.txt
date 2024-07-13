@@ -1,4 +1,3 @@
-# requirements.txt
 jupyter
 tensorflow
 keras
@@ -14,3 +13,20 @@ sqlalchemy
 geopandas
 requests
 shapely
+boto3
+pyyaml
+pylint
+moto
+coverage
+memory-profiler
+dask
+xgboost
+lightgbm
+opencv-python
+nltk
+spacy
+flask
+fastapi
+pytest
+mlflow
+tensorboard
